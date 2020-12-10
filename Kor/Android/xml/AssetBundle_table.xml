@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <Root>
-  <Header CRC="20201125_155555" Region="Korea" BuildInfo="1.58_2208_21f1b9d9_AOS" CommitHash="" DependencyHash="" PackCount="7" FileCount="88" TotalSize="81685548" MB="77.9" Compressed="false" Source="/Jenkins/workspace/KoreaStage/Korea_AT_AOS_Stage/TABLE/Table/" />
+  <Header CRC="20201125_155555" Region="Korea" BuildInfo="1.58_2321_21f1b9d9_AOS" CommitHash="" DependencyHash="" PackCount="7" FileCount="88" TotalSize="81685548" MB="77.9" Compressed="false" Source="/Jenkins/workspace/KoreaStage/Korea_AT_AOS_Stage/TABLE/Table/" />
   <PackList Count="7">
-    <PackInfo Name="pack_001.bin" Size="10617099" MB="10.1" FileCount="3" FileCRC="3506828799" Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS">
-      <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.client.item.ifo" Version="1" Size="629183" KB="614.4" FileCRC="1807902401" CRC="1807902401" />
-      <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.client.item.tbl" Version="1" Size="9714618" KB="9,486.9" FileCRC="3644741072" CRC="3644741072" />
-      <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="273171" KB="266.8" FileCRC="3807277206" CRC="3807277206" />
+    <PackInfo Name="pack_001.bin" Size="10617099" MB="10.1" FileCount="3" FileCRC="3506828799" Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS">
+      <Data Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.bin.client.item.ifo" Version="1" Size="629183" KB="614.4" FileCRC="1807902401" CRC="1807902401" />
+      <Data Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.bin.client.item.tbl" Version="1" Size="9714618" KB="9,486.9" FileCRC="3644741072" CRC="3644741072" />
+      <Data Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.bin.client.skill.descriptionset.ifo" Version="1" Size="273171" KB="266.8" FileCRC="3807277206" CRC="3807277206" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" Size="11866620" MB="11.3" FileCount="8" FileCRC="807459320" Time="20201113_010856" BuildInfo="1.58_2313_3fedddde_AOS">
-      <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.joblevel.ifo" Version="1" Size="120640" KB="117.8" FileCRC="1506541667" CRC="1506541667" />
-      <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.lan.kor.ifo" Version="1" Size="628296" KB="613.6" FileCRC="1909729907" CRC="1909729907" />
-      <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.lan.kor.tbl" Version="99" Size="5993445" KB="5,853.0" FileCRC="107716832" CRC="107716832" />
-      <Data Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="627852" KB="613.1" FileCRC="3057286794" CRC="3057286794" />
-      <AssetBundle Time="20201125_155555" BuildInfo="1.58_2208_21f1b9d9_AOS" Path="data.table.unity3d" Version="99" Size="1276888" KB="1,247.0" FileCRC="2756752019" CRC="450855647" />
+      <Data Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.bin.joblevel.ifo" Version="1" Size="120640" KB="117.8" FileCRC="1506541667" CRC="1506541667" />
+      <Data Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.bin.lan.kor.ifo" Version="1" Size="628296" KB="613.6" FileCRC="1909729907" CRC="1909729907" />
+      <Data Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.bin.lan.kor.tbl" Version="99" Size="5993445" KB="5,853.0" FileCRC="107716832" CRC="107716832" />
+      <Data Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.bin.lang.kor.questxml.tbl" Version="1" Size="627852" KB="613.1" FileCRC="3057286794" CRC="3057286794" />
+      <AssetBundle Time="20201125_155555" BuildInfo="1.58_2321_21f1b9d9_AOS" Path="data.table.unity3d" Version="99" Size="1276888" KB="1,247.0" FileCRC="2756752019" CRC="450855647" />
       <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.gachaitem.ifo" Version="1" Size="51630" KB="50.4" FileCRC="85381784" CRC="85381784" />
       <Data Time="20201116_174210" BuildInfo="1.58_2315_b7a88ba3_AOS" Path="data.bin.gachaitem.tbl" Version="1" Size="1207242" KB="1,178.9" FileCRC="3808812076" CRC="3808812076" />
       <Data Time="20201113_010856" BuildInfo="1.58_2313_3fedddde_AOS" Path="data.bin.client.buff.tbl" Version="1" Size="1960371" KB="1,914.4" FileCRC="2394617984" CRC="2394617984" />
