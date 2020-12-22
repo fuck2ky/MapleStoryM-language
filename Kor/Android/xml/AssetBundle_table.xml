@@ -5,8 +5,8 @@
     <PackInfo Name="pack_001.bin" HighPriority="1" Size="12767801" MB="12.2" FileCount="5" FileCRC="2150313118" Time="20201218_142721" BuildInfo="1.59_2393_2a42093e_AOS">
       <Data Time="20201218_155005" BuildInfo="1.59_2395_7e4db066_AOS" HighPriority="1" Path="data.bin.client.world.ifo" Version="1" Size="63352" KB="61.9" FileCRC="2572666305" CRC="2572666305" />
       <Data Time="20201218_155005" BuildInfo="1.59_2395_7e4db066_AOS" HighPriority="1" Path="data.bin.client.world.tbl" Version="1" Size="766307" KB="748.3" FileCRC="2994483179" CRC="2994483179" />
-      <Data Time="20201218_155005" BuildInfo="1.59_2395_7e4db066_AOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="1" Size="674766" KB="659.0" FileCRC="1602582870" CRC="1602582870" />
-      <Data Time="20201218_155005" BuildInfo="1.59_2395_7e4db066_AOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="99" Size="6489334" KB="6,337.2" FileCRC="694539744" CRC="694539744" />
+      <Data Time="20201218_155005" BuildInfo="1.59_2395_7e4db066_AOS" HighPriority="1" Path="data.bin.lan.kor.ifo" Version="99" Size="674766" KB="659.0" FileCRC="1602582870" CRC="1602582870" />
+      <Data Time="20201218_155005" BuildInfo="1.59_2395_7e4db066_AOS" HighPriority="1" Path="data.bin.lan.kor.tbl" Version="1" Size="6489334" KB="6,337.2" FileCRC="694539744" CRC="694539744" />
       <Data Time="20201218_142721" BuildInfo="1.59_2393_2a42093e_AOS" HighPriority="1" Path="data.bin.client.dummy.tbl" Version="1" Size="4773872" KB="4,662.0" FileCRC="3623179285" CRC="3623179285" />
     </PackInfo>
     <PackInfo Name="pack_002.bin" HighPriority="1" Size="16444157" MB="15.7" FileCount="4" FileCRC="3458693438" Time="20201218_001146" BuildInfo="1.59_2392_4466df4d_AOS">
